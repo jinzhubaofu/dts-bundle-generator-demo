@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+		"lib": ["es2020", "DOM"],
+		"module": "commonjs",
+		"newLine": "LF",
+		"noEmitOnError": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"strict": true,
+		"stripInternal": true,
+		"target": "es2020"
+  }
+}
